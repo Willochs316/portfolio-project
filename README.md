@@ -4,3 +4,9 @@
 
 
 [youtube-search-clone-video.webm](https://user-images.githubusercontent.com/82782869/222502737-2598898e-52aa-400a-8499-fb0fd4e85b78.webm)
+
+
+# AUTHORS
+
+Willochs Ojigbo  - [Github](https://github.com/Willochs316)
+Tochukwu Nzewi - [Github](https://github.com/tochi26) 
